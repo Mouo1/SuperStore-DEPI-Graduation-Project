@@ -8,15 +8,15 @@ We utilized the Superstore Sales dataset, which includes various features relate
 - Number of Rows: 8399
 - Number of Columns: 23
 - Data Types:
- - Numeric: Row ID, Sales, Profit, etc.
- - Categorical: Ship Mode, Customer Segment, Product Category, etc.
- - Datetime: Order Date
+    - Numeric: Row ID, Sales, Profit, etc.
+    - Categorical: Ship Mode, Customer Segment, Product Category, etc.
+    - Datetime: Order Date
 - Data Available: 2017-2020
 - Columns Available:
- - 'Row ID', 'Order ID', 'Order Date', 'Order Priority', 'Order Quantity', 'Sales', 'Discount', 'Ship Mode', 'Profit', 'Unit Price', 'Shipping Cost', 'Customer Name', 'Province', 'Region', 'Customer Segment', 'Product Category', 'Product Sub-Category', 'Product Name', 'Product Container', 'Product Base Margin', 'Ship Date'
+    - 'Row ID', 'Order ID', 'Order Date', 'Order Priority', 'Order Quantity', 'Sales', 'Discount', 'Ship Mode', 'Profit', 'Unit Price', 'Shipping Cost', 'Customer Name', 'Province', 'Region', 'Customer Segment', 'Product Category', 'Product Sub-Category', 'Product Name', 'Product Container', 'Product Base Margin', 'Ship Date'
 - Additional Tables:
- - Users table:'Region''Manager'
- - Returns table:'Order Id' 'Status'
+    - Users table:'Region''Manager'
+    - Returns table:'Order Id' 'Status'
 
  ## Project Workflow
  
@@ -39,9 +39,9 @@ We utilized the Superstore Sales dataset, which includes various features relate
  - Created interactive dashboards using Tableau to be able to explore insights dynamically.
 
 ## Tools & Technologies
-SQL
-Pandas
-NumPy
-Matplotlib
-Tableau
+    - SQL
+    - Pandas
+    - NumPy
+    - Matplotlib
+    - Tableau
 
