@@ -3,7 +3,7 @@
 ## Project Overview
 This project is part of a graduation project for the Digital Egypt Pioneers Initiative. It involves a comprehensive data analysis of the Superstore Sales dataset, aimed at uncovering critical insights and trends to optimize store operations and enhance customer satisfaction through data visualization and analytics.
 
-## Dataset
+## Dataset Summary
 We utilized the Superstore Sales dataset, which includes various features related to customer orders, product categories, sales regions, and more.
 - Number of Rows: 8399
 - Number of Columns: 23
@@ -39,9 +39,24 @@ We utilized the Superstore Sales dataset, which includes various features relate
  - Created interactive dashboards using Tableau to be able to explore insights dynamically.
 
 ## Tools & Technologies
-    - SQL
-    - Pandas
-    - NumPy
-    - Matplotlib
-    - Tableau
+- SQL
+- Pandas
+- NumPy
+- Matplotlib
+- Tableau
+
+## Links
+
+[Presentation](https://www.canva.com/design/DAGU4i01eVk/KXcJg84HLb_SrydMYjMbeQ/view?utm_content=DAGU4i01eVk&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+
+## Visualization
+
+[Public Tableau Link](https://public.tableau.com/views/Book1_17291219349070/Sales?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+
+![Sales Dashboard](Sales.png)
+
+![Returns Dashboard](Returns.png)
+
+![Customer and Shipping Dashboard](Customer&Shiping.png)
 
